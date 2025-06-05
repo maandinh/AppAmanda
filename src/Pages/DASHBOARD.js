@@ -8,7 +8,7 @@ const categorias = [
     imagem: { uri: 'https://i.pinimg.com/736x/65/33/0f/65330fd3078e36b401d18223daa29dda.jpg' },
   },
   {
-    nome: 'PRATO PRINCIPAL OI AMANDINHA',
+    nome: 'PRATO PRINCIPAL',
     imagem: { uri: 'https://i.pinimg.com/736x/f9/c9/69/f9c969b83d5ca5ea6ad4c87828f27729.jpg' },
   },
   {
